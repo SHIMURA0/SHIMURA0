@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Programming and Mathematical Proofs.
 - 📫 If you want to dicuss with me, just email me HZHANG075@e.ntu.edu.sg.
 -
-- <div align="center"> <img src="[“https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMURA0)](https://github.com/anuraghazra/github-readme-stats”)" /> </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMURA0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SHIMURA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
