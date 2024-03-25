@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/SHIMURA0/SHIMURA0/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SHIMURA0/SHIMURA0/output/snake.svg" alt="Snake animation"/>
+
 - 👋 Hi, I’m @HONGLIE ZHANG
 - 👀 I’m interested in Mathematics, Statistics, Physics and Artificial Intelligence.
 - 🌱 I’m currently learning Deep Learning and Large Language Models.
