@@ -6,11 +6,6 @@
 - 
 
 
-
-<img src="https://raw.githubusercontent.com/SHIMURA0/SHIMURA0/output/snake.svg" alt="Snake animation" />
-
-###
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMURA0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SHIMURA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
