@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Deep Learning and Large Language Models.
 - 💞️ I’m looking to collaborate on Programming and Mathematical Proofs.
 - 📫 If you want to dicuss with me, just email me HZHANG075@e.ntu.edu.sg.
-- 
+- Just start using Github, so everything is under construction 
 
 ###
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SHIMURA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
