@@ -81,6 +81,8 @@
 
 ###
 
+![GitHub Repo stars](https://img.shields.io/github/stars/SHIMURA0/SHIMURA0?style=social)
+
 
 <!---
 SHIMURA0/SHIMURA0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
