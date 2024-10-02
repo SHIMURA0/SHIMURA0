@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,go,rust,swift,java,cpp,c,haskell,cs,kotlin,latex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,go,rust,swift,java,cpp,c,haskell,cs,kotlin,zig,latex&theme=light" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,fastapi,vite,flutter,nextjs,nginx,cloudflare,postman,pytorch,rabbitmq,spring,tailwind,unity,tensorflow&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,fastapi,vite,flutter,nextjs,nginx,cloudflare,postman,pytorch,rabbitmq,spring,tailwind,unity,tensorflow,bun&theme=light" />
   </a>
 </p>
 
