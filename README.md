@@ -64,7 +64,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,fastapi,vite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,fastapi,vite,flutter,nextjs,nginx,postman,pytorch,rabbitmq,spring,tailwind,unity,tensorflow&theme=light" />
   </a>
 </p>
 
