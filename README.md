@@ -56,7 +56,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,githubactions,powershell,bash,apple&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,githubactions,powershell,bash,ubuntu,apple&theme=light" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,fastapi,vite,flutter,nextjs,nginx,cloudflare,postman,pytorch,rabbitmq,spring,tailwind,unity,tensorflow,bun&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,fastapi,vite,flutter,nextjs,nginx,cloudflare,postman,pytorch,rabbitmq,spring,tailwind,unity,tensorflow,bun,vercel&theme=light" />
   </a>
 </p>
 
