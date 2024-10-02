@@ -52,6 +52,22 @@
   </a>
 </p>
 
+<h3>DevOps</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,git,githubactions&theme=light" />
+  </a>
+</p>
+
+<h3>Develop framework</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,fastapi,vite&theme=light" />
+  </a>
+</p>
+
 
 <!---
 SHIMURA0/SHIMURA0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
