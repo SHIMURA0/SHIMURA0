@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,go,rust,swift,java,cpp,c,latex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,go,rust,swift,java,cpp,c,haskell,cs,latex&theme=light" />
   </a>
 </p>
 
