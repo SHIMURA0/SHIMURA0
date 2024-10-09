@@ -68,6 +68,8 @@
   </a>
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIMURA0&repo=fastapi-wx-backend)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 SHIMURA0/SHIMURA0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
