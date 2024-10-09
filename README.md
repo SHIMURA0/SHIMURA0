@@ -68,7 +68,7 @@
   </a>
 </p>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIMURA0&repo=golang-for-baby)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIMURA0&repo=golang-for-baby)](https://github.com/SHIMURA0/golang-for-baby.git)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIMURA0&repo=rust-for-baby)
 
 ### Gist and useful scripts
