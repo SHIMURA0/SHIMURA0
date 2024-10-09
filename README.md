@@ -11,7 +11,7 @@
 ###
 ![shimura's stats](https://github-readme-stats.vercel.app/api/wakatime?username=@SHIMURA&langs_count=26&layout=compact)
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMURA0&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMURA0&layout=compact)
 ###
 ![SHIMURA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMURA0&show_icons=true&theme=transparent)
 ###
