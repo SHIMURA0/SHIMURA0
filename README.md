@@ -75,7 +75,8 @@
 
 ### Gist and useful scripts
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=41602e9c463d492f518b3892284c34bc)](https://gist.github.com/SHIMURA0/41602e9c463d492f518b3892284c34bc/)
-
+###
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=25877f154c63310b747660c946f8b148)](https://gist.github.com/SHIMURA0/25877f154c63310b747660c946f8b148/)
 
 
 <!---
