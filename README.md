@@ -1,4 +1,12 @@
-<img src="https://github.com/SHIMURA0/SHIMURA0/assets/IMG_1658 2.jpeg"/>
+<div align="center">
+  <img width="100%" src="https://github.com/SHIMURA0/SHIMURA0/blob/main/assets/IMG_1658 2.jpeg" alt="cover" />
+</div>
+
+<div align="center">
+  <img width="100%" height="300px" src="https://github.com/SHIMURA0/SHIMURA0/blob/main/assets/IMG_1658 2.jpeg" alt="cover" style="object-fit: cover; object-position: center bottom;" />
+</div>
+
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/SHIMURA0/SHIMURA0/output/snake.svg" alt="Snake animation"/>
 
