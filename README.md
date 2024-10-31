@@ -3,12 +3,8 @@
 </div>
 
 <div align="center">
-  <img width="100%" height="300px" src="https://github.com/SHIMURA0/SHIMURA0/blob/main/assets/IMG_1658 2.jpeg" alt="cover" style="object-fit: cover; object-position: center bottom;" />
-</div>
-
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/SHIMURA0/SHIMURA0/output/snake.svg" alt="Snake animation"/>
+</div>
 
 - 👋 Hi, I’m @HONGLIE ZHANG
 - 👀 I’m interested in Mathematics, Statistics, Physics and Artificial Intelligence.
@@ -59,8 +55,11 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
+<div align="center">
+  
 ###
 ![shimura's stats](https://github-readme-stats.vercel.app/api/wakatime?username=@SHIMURA&langs_count=26&layout=compact)
+  
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMURA0&layout=compact)
 ###
@@ -69,6 +68,8 @@
 ![SHIMURA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMURA0&show_icons=true&theme=transparent)
 ###
 <img src="https://github-readme-stats.vercel.app/api?username=SHIMURA0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github-light&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+</div>
 
 ### Languages and Tools:
 
