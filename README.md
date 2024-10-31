@@ -1,4 +1,4 @@
-<img image />
+<img src="https://github.com/SHIMURA0/SHIMURA0/assets/IMG_1658 2.jpeg"/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/SHIMURA0/SHIMURA0/output/snake.svg" alt="Snake animation"/>
 
