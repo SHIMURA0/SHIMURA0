@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/SHIMURA0/SHIMURA0/blob/main/assets/IMG_1658 2.jpeg" alt="cover" />
+  <img width="95%" src="https://github.com/SHIMURA0/SHIMURA0/blob/main/assets/IMG_1658 2.jpeg" alt="cover" />
 </div>
 
 <div align="center">
