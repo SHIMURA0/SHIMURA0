@@ -13,6 +13,11 @@
 - 📫 If you want to dicuss with me, just email me HZHANG075@e.ntu.edu.sg.
 - Just start using Github, so everything is under construction
 -
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
+
 ### Programming Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
@@ -91,6 +96,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMURA0&langs_count=8)
 ###
 ![SHIMURA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMURA0&show_icons=true&theme=transparent)
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500">
+<br><br>
+
 ###
 <img src="https://github-readme-stats.vercel.app/api?username=SHIMURA0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github-light&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
