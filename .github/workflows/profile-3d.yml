@@ -9,16 +9,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    permissions: # 添加明确的权限
+      contents: write
+      
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4  # 更新到 v4
+        with:
+          fetch-depth: 0
+          
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
-          git push
+          git push origin main  # 明确指定推送到 main 分支
+
