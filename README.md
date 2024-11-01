@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 <div align="center">
   <img width="100%" src="https://github.com/SHIMURA0/SHIMURA0/blob/main/assets/IMG_1658 2.jpeg" alt="cover" />
 </div>
