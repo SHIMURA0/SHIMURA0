@@ -6,11 +6,10 @@
 <img src="https://raw.githubusercontent.com/SHIMURA0/SHIMURA0/output/snake.svg" alt="Snake animation"/>
 </div>
 
-- 👋 Hi, I’m @HONGLIE ZHANG
 - 👀 I’m interested in Mathematics, Statistics, Physics and Artificial Intelligence.
 - 🌱 I’m currently learning Deep Learning and Large Language Models.
 - 💞️ I’m looking to collaborate on Programming and Mathematical Proofs.
-- 📫 If you want to dicuss with me, just email me HZHANG075@e.ntu.edu.sg.
+
 - Just start using Github, so everything is under construction
 -
 
