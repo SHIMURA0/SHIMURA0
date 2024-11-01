@@ -112,6 +112,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=SHIMURA0&column=3&margin-w=15&margin-h=15)
 </div>
 
+![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 ### Languages and Tools:
 
 
