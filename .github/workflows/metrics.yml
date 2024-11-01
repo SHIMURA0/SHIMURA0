@@ -21,6 +21,7 @@ jobs:
         with:
           filename: metrics.plugin.languages.indepth.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          commits_authoring: Honglie Zhang
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
