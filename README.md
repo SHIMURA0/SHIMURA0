@@ -174,6 +174,7 @@
 ###
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=25877f154c63310b747660c946f8b148)](https://gist.github.com/SHIMURA0/25877f154c63310b747660c946f8b148/)
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <!---
 SHIMURA0/SHIMURA0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
