@@ -182,6 +182,10 @@
 
 ## High dimensional statistics
 
+High dimensional statistics is the statistics of high dimensional data.
+
+Why are we interested in high dimensional data? because high dimensional space is interesting!
+
 <!---
 SHIMURA0/SHIMURA0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
