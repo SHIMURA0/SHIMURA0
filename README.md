@@ -176,6 +176,12 @@
 
 <img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/Math figures hero image edit_Do Pham.png" alt="cover"/>
 
+### Mathematics
+
+### Statistics
+
+## High dimensional statistics
+
 <!---
 SHIMURA0/SHIMURA0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
