@@ -184,9 +184,9 @@
 
 High dimensional statistics is the statistics of high dimensional data.
 
-```md
+
 **Definition.**
-```
+
 
 Why are we interested in high dimensional data? because high dimensional space is interesting!
 
