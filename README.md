@@ -166,9 +166,18 @@
   </a>
 </p>
 
-### Frontend
+## Frontend
 
-### Backend
+## Backend
+
+### Java 
+#### Spring Boot 
+The best backend framework in Java 
+
+### Python 
+#### FastAPI 
+
+#### LiteStar
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIMURA0&repo=golang-for-baby)](https://github.com/SHIMURA0/golang-for-baby.git)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIMURA0&repo=rust-for-baby)
