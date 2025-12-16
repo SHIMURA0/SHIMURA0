@@ -89,7 +89,7 @@
 <div align="center">
   
 ###
-![shimura's stats](https://github-readme-stats.vercel.app/api/wakatime?username=@SHIMURA&langs_count=50&layout=compact)
+![shimura's stats](https://github-readme-stats.vercel.app/api/wakatime?username=@SHIMURA&langs_count=100&layout=compact)
   
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMURA0&layout=compact)
